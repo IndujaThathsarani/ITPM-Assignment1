@@ -80,5 +80,4 @@ git clone https://github.com/IndujaThathsarani/ITPM-Assignment1
 2.To run tests with browser UI:
 ```npx playwright test --headed```
 
-3.To view the HTML test report:
-```npx playwright show-report```
+
