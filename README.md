@@ -62,7 +62,7 @@ playwright-sinhala-automation/
 
 1. Clone the public GitHub repository:
 ```bash
-git clone https://github.com/IndujaThathsarani/ITPM-Assignment1.git
+git clone https://github.com/IndujaThathsarani/ITPM-Assignment1
 ```
 2.Navigate into the project folder
 
