@@ -8,18 +8,12 @@
 This repository contains the complete automation solution for **IT3040 – Information Technology Project Management (Assignment 1)**.
 
 **Option Selected:**  
-✔ Option 1 – Singlish to Sinhala translation testing
+Option 1 – Singlish to Sinhala translation testing
 
 **System Under Test:**  
 https://www.swifttranslator.com/
 
-The objective of this assignment is to evaluate:
-- The accuracy of Singlish-to-Sinhala conversion
-- The robustness of the system under varied inputs
-- Basic UI behavior (real-time output update)
-
 ---
-
 ##  Scope of Testing
 
 The following test types are covered:
@@ -27,7 +21,6 @@ The following test types are covered:
 -  Positive functional test cases (correct conversions)
 - Negative functional test cases (robustness / incorrect behavior)
 -  UI test case (real-time Sinhala output update)
-
 All required scenarios mentioned in the assignment brief are covered:
 
 ## Tools & Technologies Used
@@ -39,25 +32,25 @@ All required scenarios mentioned in the assignment brief are covered:
 
 ---
 
-##  Project Structure
+## Project Structure
 
+```text
 playwright-sinhala-automation/
 │
 ├── tests/
-│ └── csvTranslator.spec.js # Playwright test script
+│   └── csv-test.spec.js
 │
-├── testcases.csv # Test data (UTF-8 encoded)
+├── testcases.csv
 │
-├── playwright.config.js # Playwright configuration
+├── playwright.config.js
 │
-├── package.json # Project dependencies
+├── package.json
 ├── package-lock.json
 │
-└── README.md # Project documentation
-
+└── README.md
+```
 ---
-
-##  Prerequisites
+## Prerequisites
 
 - Node.js (version 18 or higher recommended)
 - npm (comes with Node.js)
@@ -70,3 +63,22 @@ playwright-sinhala-automation/
 1. Clone the public GitHub repository:
 ```bash
 git clone https://github.com/IndujaThathsarani/ITPM-Assignment1.git
+```
+2.Navigate into the project folder
+
+3.Install project dependencies
+```npm install```
+
+4.Install Playwright browsers
+```npx playwright install```
+
+## How to Run the Tests
+
+1.Run all Playwright tests using:
+```npx playwright test```
+
+2.To run tests with browser UI:
+```npx playwright test --headed```
+
+3.To view the HTML test report:
+```npx playwright show-report```
