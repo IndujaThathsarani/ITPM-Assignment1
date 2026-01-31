@@ -1,12 +1,9 @@
 # IT3040 – ITPM Assignment 1  
 ## Singlish to Sinhala Translation – Playwright Automation
-
-### BSc (Hons) in Information Technology – Year 3  
-Semester 1  
+## IT23818316 H.A.I.T.Hadigngnapola
+## Year 3 Semester 1
 
 ---
-
-## 📌 Assignment Overview
 
 This repository contains the complete automation solution for **IT3040 – Information Technology Project Management (Assignment 1)**.
 
@@ -25,13 +22,13 @@ Backend APIs, performance, and security testing are **out of scope**, as per ass
 
 ---
 
-## 🧪 Scope of Testing
+##  Scope of Testing
 
 The following test types are covered:
 
-- ✅ Positive functional test cases (correct conversions)
-- ❌ Negative functional test cases (robustness / incorrect behavior)
-- 🖥 UI test case (real-time Sinhala output update)
+-  Positive functional test cases (correct conversions)
+- Negative functional test cases (robustness / incorrect behavior)
+-  UI test case (real-time Sinhala output update)
 
 All required scenarios mentioned in the assignment brief are covered, including:
 - Sentence structures (simple, compound, complex)
@@ -50,7 +47,7 @@ All required scenarios mentioned in the assignment brief are covered, including:
 
 ---
 
-## 🧰 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Playwright** – UI automation framework
 - **JavaScript (Node.js)** – Test scripting
@@ -59,7 +56,7 @@ All required scenarios mentioned in the assignment brief are covered, including:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 playwright-sinhala-automation/
 │
@@ -75,10 +72,9 @@ playwright-sinhala-automation/
 │
 └── README.md # Project documentation
 
-
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 - Node.js (version 18 or higher recommended)
 - npm (comes with Node.js)
@@ -86,7 +82,7 @@ playwright-sinhala-automation/
 
 ---
 
-## 📦 Installation Instructions
+##  Installation Instructions
 
 1. Clone the public GitHub repository:
 ```bash
