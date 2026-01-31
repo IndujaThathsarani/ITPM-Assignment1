@@ -18,8 +18,6 @@ The objective of this assignment is to evaluate:
 - The robustness of the system under varied inputs
 - Basic UI behavior (real-time output update)
 
-Backend APIs, performance, and security testing are **out of scope**, as per assignment instructions.
-
 ---
 
 ##  Scope of Testing
@@ -30,22 +28,7 @@ The following test types are covered:
 - Negative functional test cases (robustness / incorrect behavior)
 -  UI test case (real-time Sinhala output update)
 
-All required scenarios mentioned in the assignment brief are covered, including:
-- Sentence structures (simple, compound, complex)
-- Interrogative and imperative forms
-- Positive and negative sentences
-- Polite and informal phrasing
-- Daily conversational language
-- Word combinations and repeated expressions
-- Tense variations and negation
-- Input length variations (S / M / L)
-- Mixed Singlish + English content
-- English technical and brand terms
-- Punctuation, numbers, dates, currency, units
-- Formatting (spaces, line breaks, paragraphs)
-- Slang and colloquial expressions
-
----
+All required scenarios mentioned in the assignment brief are covered:
 
 ## Tools & Technologies Used
 
