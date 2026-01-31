@@ -1,0 +1,26 @@
+{
+  "name": "itpm-assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndujaThathsarani/ITPM-Assignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IndujaThathsarani/ITPM-Assignment1/issues"
+  },
+  "homepage": "https://github.com/IndujaThathsarani/ITPM-Assignment1#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3"
+  }
+}
