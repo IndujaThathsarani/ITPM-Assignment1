@@ -20,4 +20,4 @@ Test cases are data-driven using a CSV file to ensure correct handling of Sinhal
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/your-username/playwright-sinhala-automation.git](https://github.com/IndujaThathsarani/ITPM-Assignment1)
+git clone (https://github.com/IndujaThathsarani/ITPM-Assignment1)
